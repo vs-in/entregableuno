@@ -1,0 +1,26 @@
+.barraNavegacion{
+    background-color: brown;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.links{
+    font-size: 15px;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: black;
+    padding: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+.links:hover{
+    background-color: rgb(55, 54, 71);
+}
+

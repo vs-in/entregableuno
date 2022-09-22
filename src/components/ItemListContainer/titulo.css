@@ -1,0 +1,14 @@
+/* Estilos titulo inicial */
+.titulo1{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    border-style: hidden;
+    text-transform: uppercase;
+    background-color: rgb(83, 79, 73);
+    padding: 50px;
+    margin: 150px;
+    border-radius: 150px;
+}
